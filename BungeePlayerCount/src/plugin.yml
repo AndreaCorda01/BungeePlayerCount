@@ -1,0 +1,4 @@
+name: BungeePlayerCount
+main: me.Creeper96.BungeePlayerCount.Start
+version: 0.3
+author: Creeper96_
